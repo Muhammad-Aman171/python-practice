@@ -1,10 +1,8 @@
 
 
-userInput = int(input("enter your age : "))
+userInput = int(input("enter your year : "))
 
-if userInput >= 50 :
-    print( "you are a senior citizen")
-elif userInput >= 18 and userInput <=49 :
-    print( "you are a Adult")
+if userInput % 4 == 0  or userInput % 100 == 0 or userInput % 400 == 0 :
+    print( "this is a leap year")
 else:
-    print( "your look like a minor age")
+    print( "this is not a leap year")
