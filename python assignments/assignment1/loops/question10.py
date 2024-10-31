@@ -3,5 +3,4 @@
 
 userInput = str(int(input("enter your number : ")))
 
-for i in userInput:
-    print(i)
+print(len(userInput))
