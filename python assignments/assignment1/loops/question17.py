@@ -1,7 +1,6 @@
 
 # 17. Write a program that continues to ask for a number until the correct number is guessed.
 
-# userInput = int(input('enter your number : '))
 
 num = 3
 

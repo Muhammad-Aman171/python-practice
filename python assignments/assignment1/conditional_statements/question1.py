@@ -1,4 +1,4 @@
-
+# 1. write a program that check the number is positive, nagetive and zero
 
 userInput = int(input("enter your number :"))
 
