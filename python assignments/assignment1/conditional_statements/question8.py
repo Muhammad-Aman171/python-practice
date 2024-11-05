@@ -15,4 +15,6 @@ else :
     print("string is not palindrome")
 
 
+
+
 # this code is made by chatgpt but I can also understand thier code

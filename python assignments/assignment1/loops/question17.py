@@ -1,5 +1,6 @@
 
-# 17. Write a program that continues to ask for a number until the correct number is guessed.
+# 17. Write a program that continues to ask for
+#  a number until the correct number is guessed.
 
 
 num = 3

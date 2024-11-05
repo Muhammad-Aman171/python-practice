@@ -1,5 +1,6 @@
 
-# 17. Write a program that asks for an integer and checks if it’s divisible by 2, 3, or both.
+# 17. Write a program that asks for an integer and 
+# checks if it’s divisible by 2, 3, or both.
 
 enterInteger = int(input("enter your integer : "))
 

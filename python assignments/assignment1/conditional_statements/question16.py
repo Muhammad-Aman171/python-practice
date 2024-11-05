@@ -1,5 +1,6 @@
 
-# 16. Take the length of three sides and classify the triangle (equilateral, isosceles, or scalene).
+# 16. Take the length of three sides and classify the
+#  triangle (equilateral, isosceles, or scalene).
 
 side1 = float(input("enter your first side : "))
 side2 = float(input("enter your second side : "))

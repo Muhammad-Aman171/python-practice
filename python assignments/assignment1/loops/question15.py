@@ -1,5 +1,6 @@
 
-# 15. Print the sum of even and odd numbers separately up to a given number.
+# 15. Print the sum of even and odd numbers separately
+#  up to a given number.
 
 
 numbers = int(input("enter your number : "))

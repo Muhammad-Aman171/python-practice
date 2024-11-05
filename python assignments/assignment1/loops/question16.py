@@ -1,5 +1,6 @@
 
-# 16. Create a program to calculate the sum of the digits of an inputted integer.
+# 16. Create a program to calculate the sum of the
+#  digits of an inputted integer.
 
 userInput = str(int(input("enter your number : ")))
 sum_number = 0

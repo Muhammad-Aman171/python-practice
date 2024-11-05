@@ -1,5 +1,6 @@
 
-# 20. Create a program that simulates a countdown timer starting from a given number down to zero.
+# 20. Create a program that simulates a countdown
+#  timer starting from a given number down to zero.
 
 import time
 

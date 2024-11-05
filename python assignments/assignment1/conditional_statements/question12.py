@@ -1,5 +1,6 @@
 
-# 12. Write a program that takes a temperature in Celsius and checks if it’s freezing, moderate, or hot.
+# 12. Write a program that takes a temperature in Celsius and
+#  checks if it’s freezing, moderate, or hot.
 
 temperature = int(input("enter your temperature in celsius : "))
 

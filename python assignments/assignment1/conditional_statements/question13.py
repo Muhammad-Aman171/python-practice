@@ -1,5 +1,6 @@
 
-# 13. Take two numbers and an operator (+, -, *, /) as input and perform the corresponding operation.
+# 13. Take two numbers and an operator (+, -, *, /) as input
+#  and perform the corresponding operation.
 
 
 num1 = float(input("enter first number : "))
