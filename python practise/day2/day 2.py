@@ -42,15 +42,15 @@
 
 # 4.  Armstrong Number Check:
 
-num = int(input("enter your number : "))
-str_num = str(num)
-len_num = len(str_num)
+# num = int(input("enter your number : "))
+# str_num = str(num)
+# len_num = len(str_num)
 
-total = sum(int(digits) ** len_num for digits in str_num )
-if total == num :
-    print(total,  "is Armstrong number")
-else:
-    print( total, "  is not Armstrong number" )
+# total = sum(int(digits) ** len_num for digits in str_num )
+# if total == num :
+#     print(total,  "is Armstrong number")
+# else:
+#     print( total, "  is not Armstrong number" )
 
 
 # 5. Perfect Number Check:
