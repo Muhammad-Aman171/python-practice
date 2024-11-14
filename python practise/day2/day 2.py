@@ -47,8 +47,16 @@ str_num = str(num)
 len_num = len(str_num)
 
 total = sum(int(digits) ** len_num for digits in str_num )
+if total == num :
+    print(total,  "is Armstrong number")
+else:
+    print( total, "  is not Armstrong number" )
 
-print(total)
+# print(total)
+
+
+# 5. Perfect Number Check:
+
 
 
 
