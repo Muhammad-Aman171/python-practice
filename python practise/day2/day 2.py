@@ -51,7 +51,7 @@ if total == num :
     print(total,  "is Armstrong number")
 else:
     print( total, "  is not Armstrong number" )
-    
+
 
 # 5. Perfect Number Check:
 
