@@ -59,7 +59,7 @@
 userInput = int(input("enter your number : "))
 
 for i in range(1 , userInput ):
-    if userInput % i == 0 :
+    # if userInput % i == 0 :
         print(i)
 
 
