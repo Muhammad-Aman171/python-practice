@@ -61,7 +61,7 @@ total = 0
 for i in range(1 , userInput ):
     if userInput % i == 0 :
         total +=  i
-        print(i)
+        # print(i)
 # if total == userInput :
 #     print("this number is perfect number" , total)
 # else:
