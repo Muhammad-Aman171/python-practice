@@ -1,5 +1,5 @@
 
-# check the number is prime or not :
+# 1. check the number is prime or not :
 
 # userInput = int(input("enter your number : "))
 
@@ -15,7 +15,7 @@
 
 
 
-# please make your Fibonacci series : 
+# 2. please make your Fibonacci series : 
 
 # userInput = int(input("enter your number : "))
 
@@ -29,7 +29,7 @@
 
 
 
-# Factorial Calculation:
+# 3. Factorial Calculation:
 
 
 # userInput = int(input("enter your number : "))
@@ -40,7 +40,7 @@
 #     print(num)
 
 
-#  Armstrong Number Check:
+# 4.  Armstrong Number Check:
 
 num = int(input("enter your number : "))
 str_num = str(num)
