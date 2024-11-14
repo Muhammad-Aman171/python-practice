@@ -17,11 +17,24 @@
 
 # please make your Fibonacci series : 
 
+# userInput = int(input("enter your number : "))
+
+# num = [0 , 1]
+
+# for i in range(2 , userInput):
+#     num.append(num[-1] + num [-2])
+
+# print(num)
+
+
+
+
+# Factorial Calculation:
+
+
 userInput = int(input("enter your number : "))
 
-num = [0 , 1]
-
-for i in range(2 , userInput):
-    num.append(num[-1] + num [-2])
-
-print(num)
+num = 1
+for i in range( 1, userInput + 1):
+    num *= i
+    print(num)
