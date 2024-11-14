@@ -56,7 +56,7 @@
 # 5. Perfect Number Check:
 
 
-userInput = int(input("enter your number : "))
+# userInput = int(input("enter your number : "))
 # total = 0
 # for i in range(1 , userInput ):
     # if userInput % i == 0 :
