@@ -63,7 +63,8 @@ for i in range(1 , userInput ):
         total +=  i
         print(i)
 if total == userInput :
-    print("this number is perfect number" , total)
+    # print("this number is perfect number" , total)
+    print(i)
 else:
     print("this number is not perfect number" , total)
 
