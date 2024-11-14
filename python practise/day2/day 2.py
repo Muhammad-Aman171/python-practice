@@ -57,7 +57,7 @@
 
 
 userInput = int(input("enter your number : "))
-total = 0
+# total = 0
 # for i in range(1 , userInput ):
     # if userInput % i == 0 :
         # total +=  i
