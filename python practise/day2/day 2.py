@@ -43,14 +43,38 @@
 #  Armstrong Number Check:
 
 
-def is_armstrong(num):
-    num_str = str(num)
-    num_length = len(num_str)
-    total = sum(int(digit) ** num_length for digit in num_str)
-    return total == num
 
-number = int(input("Enter a number: "))
-if is_armstrong(number):
-    print("It's an Armstrong number.")
-else:
-    print("It's not an Armstrong number.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# def is_armstrong(num):
+#     num_str = str(num)
+#     num_length = len(num_str)
+#     total = sum(int(digit) ** num_length for digit in num_str)
+#     return total == num
+
+# number = int(input("Enter a number: "))
+# if is_armstrong(number):
+#     print("It's an Armstrong number.")
+# else:
+#     print("It's not an Armstrong number.")
