@@ -42,9 +42,11 @@
 
 #  Armstrong Number Check:
 
+num = int(input("enter your number : "))
+str_num = str(num)
+len_num = len(str_num)
 
-
-
+print(len_num )
 
 
 
