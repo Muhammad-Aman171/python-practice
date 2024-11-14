@@ -1,53 +1,16 @@
 
-
-# userInput = int(input("enter your number : "))
-
-# num = 1
-
-# for i in range (1 , userInput +1):
-#     print(i)
-
-
-# def is_prime(num):
-#     if num <= 1:
-#         return False
-#     for i in range(2, int(num**0.5) + 1):
-#         if num % i == 0:
-#             return False
-#     return True
-
-# number = int(input("Enter a number: "))
-# if is_prime(number):
-#     print("It's a prime number.")
-# else:
-#     print("It's not a prime number.")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# check the number is prime or not :
 
 userInput = int(input("enter your number : "))
 
-if userInput 
-
-
+if userInput <= 1:
+    print("this number is smaller than 1")
+else:    
+    for i in range (2 , userInput):
+        if userInput % i == 0:
+            print("your number is not a prime number")
+            break
+    else:
+        print("your number is a prime number")
 
 
