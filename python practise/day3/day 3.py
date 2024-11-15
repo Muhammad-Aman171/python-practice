@@ -33,21 +33,16 @@ userInput = int(input("enter your number : "))
 
 primeFactorArr =  []
 
-# if userInput > 0 :
-#     for i in range(2 , userInput + 1):
-#         if userInput % i == 0 :
-#             print(i)
-# else:
-#     print("this number is nagetive ")
+for i in range(2 , userInput + 1):
+    total =   userInput / i
+    if userInput >= total : 
+        primeFactorArr.append(i)
+    # else:
+    #     print(i)    
+print(primeFactorArr)
 
 
-# for i in range(2 , userInput + 1):
-#     total =   userInput / i
-#     if userInput >= total : 
-#         primeFactorArr.append(i)
-#     # else:
-#     #     print(i)    
-# print(primeFactorArr)
+
 
 
 
