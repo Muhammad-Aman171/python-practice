@@ -39,3 +39,8 @@ userInput = int(input("enter your number : "))
 #             print(i)
 # else:
 #     print("this number is nagetive ")
+
+
+for i in range(2 , userInput + 1):
+    if userInput % i == 0 :
+        print(i)
