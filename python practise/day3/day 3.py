@@ -37,8 +37,8 @@ for i in range(2 , userInput + 1):
     while userInput % i == 0 :
         primeFactorArr.append(i)
         userInput = userInput // i
-
-
+if num == 1
+print(primeFactorArr)
 
 
 
