@@ -18,13 +18,16 @@
 
 # Sum of Digits Until Single Digit:
 
-# userInput = int(input("enter your number : "))
+userInput = int(input("enter your number : "))
 
-# strNum = str(userInput)
-# total = 0
-# for i in strNum:
-#     total += int(i)
-# print(total)
+strNum = str(userInput)
+total = 0
+for i in strNum:
+    total += int(i)
+    total = str(total)
+    for i in total:
+        print(i)
+print(total)
 
 
 # Prime Factors: 
