@@ -34,12 +34,8 @@ userInput = int(input("enter your number : "))
 primeFactorArr =  []
 
 for i in range(2 , userInput + 1):
-    total =   userInput / i
-    if userInput >= total : 
-        primeFactorArr.append(i)
-    # else:
-    #     print(i)    
-print(primeFactorArr)
+    while userInput % i == 0 :
+        
 
 
 
