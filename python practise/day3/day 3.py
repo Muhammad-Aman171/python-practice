@@ -42,7 +42,8 @@ userInput = int(input("enter your number : "))
 
 
 for i in range(2 , userInput + 1):
-    if userInput / i >= userInput :
+    total =   userInput / i
+    if userInput >= total : 
         print(i)
     # else:
     #     print(i)    
