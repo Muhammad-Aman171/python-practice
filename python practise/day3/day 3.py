@@ -31,4 +31,5 @@
 
 userInput = int(input("enter your number : "))
 
+primeFactorArr =  []
 
