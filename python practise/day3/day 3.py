@@ -26,3 +26,6 @@
 #     total += int(i)
 # print(total)
 
+
+# Prime Factors: 
+
