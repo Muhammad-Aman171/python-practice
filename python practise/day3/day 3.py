@@ -39,5 +39,5 @@
 #         userInput = userInput // i
 #     if userInput == 1 : 
 #         break
-print("prime factors of this number is ",primeFactorArr)
+# print("prime factors of this number is ",primeFactorArr)
 
