@@ -29,6 +29,8 @@ for i in strNum:
         print(num)
 
 
+
+
 # Prime Factors: 
 
 # userInput = int(input("enter your number : "))
