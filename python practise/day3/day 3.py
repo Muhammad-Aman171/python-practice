@@ -47,4 +47,4 @@ for i in range(2 , userInput + 1):
         primeFactorArr.append(i)
     # else:
     #     print(i)    
-    
+print(primeFactorArr)
