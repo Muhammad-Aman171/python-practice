@@ -26,9 +26,7 @@ for i in strNum:
     total += int(i)
     print(i)
     for num in str(total):
-        # total = str(total)
         print(num)
-# print(total)
 
 
 # Prime Factors: 
