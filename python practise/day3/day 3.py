@@ -19,13 +19,11 @@
 # Sum of Digits Until Single Digit:
 
 userInput = int(input("enter your number : "))
-
-strNum = str(userInput)
-total = 0
-for i in strNum:
-    total += int(i)
-    # print(total)
-
+while userInput > 10:
+    total = 0
+    for i in str(userInput):
+        total += int(i)
+    userInput = total
 
 
 
