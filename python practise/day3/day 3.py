@@ -29,3 +29,6 @@
 
 # Prime Factors: 
 
+userInput = int(input("enter your number : "))
+
+
