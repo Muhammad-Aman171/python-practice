@@ -42,5 +42,7 @@
 # print("prime factors of this number is ",primeFactorArr)
 
 
+# Sum of Digits Until Single Digit:
+
 
 
