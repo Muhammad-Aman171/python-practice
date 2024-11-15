@@ -31,7 +31,7 @@
 
 userInput = int(input("enter your number : "))
 
-# primeFactorArr =  []
+primeFactorArr =  []
 
 # if userInput > 0 :
 #     for i in range(2 , userInput + 1):
