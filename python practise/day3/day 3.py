@@ -29,9 +29,9 @@
 
 # Prime Factors: 
 
-userInput = int(input("enter your number : "))
+# userInput = int(input("enter your number : "))
 
-primeFactorArr =  []
+# primeFactorArr =  []
 
 # if userInput > 0 :
 #     for i in range(2 , userInput + 1):
@@ -41,10 +41,15 @@ primeFactorArr =  []
 #     print("this number is nagetive ")
 
 
-for i in range(2 , userInput + 1):
-    total =   userInput / i
-    if userInput >= total : 
-        primeFactorArr.append(i)
-    # else:
-    #     print(i)    
-print(primeFactorArr)
+# for i in range(2 , userInput + 1):
+#     total =   userInput / i
+#     if userInput >= total : 
+#         primeFactorArr.append(i)
+#     # else:
+#     #     print(i)    
+# print(primeFactorArr)
+
+
+
+
+
