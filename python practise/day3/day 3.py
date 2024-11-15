@@ -44,6 +44,7 @@ primeFactorArr =  []
 for i in range(2 , userInput + 1):
     total =   userInput / i
     if userInput >= total : 
-        print(i)
+        primeFactorArr.append(i)
     # else:
     #     print(i)    
+    
