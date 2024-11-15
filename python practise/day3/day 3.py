@@ -62,7 +62,7 @@ print("Prime factors are:", end=" ")
 for factor in range(2, int(num**0.5) + 1):
     # Jab tak num ko factor se divide kar sakte hain
     while num % factor == 0:
-        print(factor, end=" ")
+        # print(factor, end=" ")
         num = num // factor  # num ko factor se divide karte raho
 
 # Agar num ab bhi 1 se bara hai, toh woh khud ek prime factor hai
