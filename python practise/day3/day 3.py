@@ -33,5 +33,7 @@ userInput = int(input("enter your number : "))
 
 primeFactorArr =  []
 
+
+
 for i in range(2 , userInput):
     print(i)
