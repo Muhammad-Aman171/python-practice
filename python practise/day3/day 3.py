@@ -24,7 +24,8 @@ strNum = str(userInput)
 total = 0
 for i in strNum:
     total += int(i)
-    
+    for sum in str(total):
+        print ( sum)
 print(total)
 
 
