@@ -24,10 +24,11 @@ strNum = str(userInput)
 total = 0
 for i in strNum:
     total += int(i)
-    for i in str(total):
-        total = str(total)
-        print(i)
-print(total)
+    print(i)
+    for num in str(total):
+        # total = str(total)
+        print(num)
+# print(total)
 
 
 # Prime Factors: 
