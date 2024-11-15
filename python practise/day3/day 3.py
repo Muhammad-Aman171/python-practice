@@ -34,7 +34,8 @@ userInput = int(input("enter your number : "))
 primeFactorArr =  []
 
 if userInput > 0 :
-    for i in range(2 , userInput+ 1):
+    for i in range(2 , userInput + 1):
+
         print(i)
 else:
     print("this number is nagetive ")
