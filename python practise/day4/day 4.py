@@ -2,7 +2,7 @@
 
 # Prime Factors: 
 
-# userInput = int(input("enter your number : "))
+userInput = int(input("enter your number : "))
 
 primeFactorArr =  []
 
