@@ -47,6 +47,8 @@ import time
 
 def scrape_dynamic_website(url):
     try:
+
+        
         # Selenium browser setup
         chrome_options = Options()
         chrome_options.add_argument("--headless")  # Run browser in headless mode
