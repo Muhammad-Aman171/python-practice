@@ -48,6 +48,9 @@ import time
 def scrape_dynamic_website(url):
     try:
 
+        driver_path = r"C:\Users\Lenovo\Downloads\Compressed\chrome driver\chromedriver.exe" 
+
+
         
         # Selenium browser setup
         chrome_options = Options()
