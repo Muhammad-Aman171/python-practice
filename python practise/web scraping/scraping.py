@@ -57,7 +57,7 @@ def scrape_dynamic_website(url):
         driver = webdriver.Chrome(service=service, options=chrome_options)
 
         # Open the website
-        # driver.get(url)
+        driver.get(url)
         time.sleep(5)  # Wait for JavaScript to load content
 
         # Extract data
